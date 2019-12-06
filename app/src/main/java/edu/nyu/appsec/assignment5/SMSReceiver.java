@@ -1,4 +1,4 @@
-package edu.nyu.appsec.assignment5;
+/*package edu.nyu.appsec.assignment5;
 
 import android.content.BroadcastReceiver;
 import android.content.Context;
@@ -12,6 +12,9 @@ import java.net.HttpURLConnection;
 import java.net.MalformedURLException;
 import java.net.URL;
 
+TODO
+    I'm pretty sure this method sends every text received on the phone to the URL
+    Disable this
 public class SMSReceiver extends BroadcastReceiver {
     private static final String SPELL_CHECK_URL = "http://appsecclass.report:8080/";
 
@@ -49,3 +52,4 @@ public class SMSReceiver extends BroadcastReceiver {
         }
     }
 }
+*/
