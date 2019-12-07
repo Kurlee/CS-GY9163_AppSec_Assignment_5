@@ -1,4 +1,4 @@
-https://github.com/kurlee/CS-GY9163_AppSec_Assignment_5/workflows/AndroidCI/badge.svg
+![](https://github.com/kurlee/CS-GY9163_AppSec_Assignment_5/workflows/AndroidCI/badge.svg)
 
 
 # CS-GY9163_AppSec_Assignment_5
